@@ -1,0 +1,1 @@
+City name : Paris , Temperature : 13.1
